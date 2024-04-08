@@ -17,13 +17,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxglove/rosmsg2-serialization.git"
+    "url": "https://github.com/greenroom-robotics/rosmsg2-serialization.git"
   },
   "author": {
     "name": "Foxglove Technologies Inc",
     "email": "contact@foxglove.dev"
   },
-  "homepage": "https://github.com/foxglove/rosmsg2-serialization",
+  "homepage": "https://github.com/greenroom-robotics/rosmsg2-serialization",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
